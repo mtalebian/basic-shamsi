@@ -12,7 +12,7 @@ Install via npm:
 
 
 ## USAGE
-In ****React**** import *Shamsi* and *Miladi* from **basic-template**
+In ****React**** import *Shamsi* and *Miladi* from **basic-template** package.
 ```javascript
 import {Shamsi, Miladi} from 'basic-shamsi'
 ```
