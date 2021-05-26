@@ -1,6 +1,6 @@
 {
   "name": "basic-shamsi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts, validate, manipulate, and display Shamsi (Jalaali) and Miladi (Gregorian) dates",
   "type": "module",
   "main": "src/index.js",
