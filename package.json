@@ -1,13 +1,23 @@
 {
   "name": "basic-shamsi",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Converts, validate, manipulate, and display Shamsi (Jalaali) and Miladi (Gregorian) dates",
   "type": "module",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
   },
-  "keywords": [ "Persian", "Shamsi", "Jalali", "Khorshidi", "Miladi", "Gregorian", "Calendar", "Date", "Conversion" ],
+  "keywords": [
+    "Persian",
+    "Shamsi",
+    "Jalali",
+    "Khorshidi",
+    "Miladi",
+    "Gregorian",
+    "Calendar",
+    "Date",
+    "Conversion"
+  ],
   "author": {
     "name": "Mahdi Talebian"
   },

@@ -1,4 +1,4 @@
-import { Shamsi, Miladi } from '../src/index.js'
+import { Shamsi, Miladi } from '../index.js'
 
 
 console.log("");
@@ -24,6 +24,7 @@ console.log("     Miladi.isValid('2021/1/16') : ", Miladi.isValid('2021/1/16'));
 console.log("     Miladi.isValid('2021/1/31') : ", Miladi.isValid('2021/1/31'));
 console.log("     Miladi.isValid('2021/11') : ", Miladi.isValid('2021/11'));
 console.log("");
+console.log("     Shamsi.isValid('1400/11/30') : ", Shamsi.isValid('1400/01/30'));
 console.log("     Shamsi.isValid('1400/01/01') : ", Shamsi.isValid('1400/01/01'));
 console.log("     Shamsi.isValid('1400/1/1') : ", Shamsi.isValid('1400/1/1'));
 console.log("     Shamsi.isValid('1400/12/31') : ", Shamsi.isValid('1400/12/31'));
